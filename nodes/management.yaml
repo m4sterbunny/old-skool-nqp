@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Management group
+
+networq:organization:group:
+  parentGroup: old-skool:organization:old-skool

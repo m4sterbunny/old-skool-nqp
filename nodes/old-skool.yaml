@@ -1,0 +1,7 @@
+networq:core:node:
+  name: Old Skool
+  description: This is the Old Skool organization
+
+networq:organization:organization: ~
+
+networq:organization:group: ~

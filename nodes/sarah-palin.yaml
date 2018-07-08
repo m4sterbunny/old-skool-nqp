@@ -1,0 +1,16 @@
+networq:core:node:
+  name: Sarah Palin
+  image: https://media.licdn.com/dms/image/C5603AQFOtQg7kNiXQg/profile-displayphoto-shrink_800_800/0?e=1536796800&v=beta&t=D7p1BXNuSbQF7KqAe5Gav4hXJokHQj-MSGTiUNQUixE
+
+networq:organization:member:
+  memberships:
+    ~teaching:
+      networq:organization:membership:
+        group: old-skool:organization:teaching
+        member: $
+        focus: Math
+    ~management:
+      networq:organization:membership:
+        group: old-skool:organization:management
+        member: $
+        focus: Head of Math

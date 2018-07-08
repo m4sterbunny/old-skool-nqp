@@ -1,0 +1,11 @@
+name: old-skool:organization
+description: Old Skool Organization Graph
+license: MIT
+
+dependencies:
+  networq:core: latest # essential
+  networq:resource: latest
+  networq:organization: latest
+  networq:linkedin: latest
+  networq:skype: latest
+  networq:contract: latest

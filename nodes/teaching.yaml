@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Teaching group
+
+networq:organization:group:
+  parentGroup: old-skool:organization:management

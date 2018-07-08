@@ -1,0 +1,11 @@
+networq:core:node:
+  name: Barack Obama
+  image: https://media.licdn.com/dms/image/C4E03AQF2C6iUecWOnQ/profile-displayphoto-shrink_800_800/0?e=1536796800&v=beta&t=jYSsiDmx8VTuF9YEJk9d55cy7QeJngh8ZhfkJwlJGXs
+
+networq:organization:member:
+  memberships:
+    barack-obama-management:
+      networq:organization:membership:
+        group: old-skool:organization:management
+        member: old-skool:organization:barack-obama
+        focus: Head teacher
